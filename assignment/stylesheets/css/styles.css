@@ -6,3 +6,10 @@
 	background-color: grey;
 	border: 2px solid red;
 }
+h1{
+	margin: 100px;
+}
+#box{
+	background-color: grey;
+	border: 5px ;
+}
